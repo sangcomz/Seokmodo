@@ -1,0 +1,27 @@
+body {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #ffffff;
+  height: 160px;
+  padding: 20px;
+  color: black;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.App-ticker {
+  font-size: medium;
+}
+
+.App-bottom {
+   position: absolute;
+   bottom: 0;
+   height : 60px;
+
+   width: 100%;
+   background-color: silver;
+}
