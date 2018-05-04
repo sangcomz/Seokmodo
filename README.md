@@ -56,6 +56,8 @@ They will not be included in the production build so you can use them for things
 
 Once the installation is done, you can run some commands inside the project folder:
 
+### `npm install`
+
 ### `npm start` or `yarn start`
 
 Runs the app in development mode.<br>
